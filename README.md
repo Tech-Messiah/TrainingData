@@ -1,0 +1,1 @@
+[BasicRules_2018_Compressed.pds](https://github.com/Tech-Messiah/TrainingData/blob/main/BasicRules_2018_Compressed.pdf)
